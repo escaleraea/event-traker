@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_940834_wish_list_wish_list</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-09 00:26:16</sys_created_on>
+        <sys_id>fab911d397631110c37fb846f053aff4</sys_id>
+        <sys_name>x_940834_wish_list_wish_list</sys_name>
+        <sys_package display_value="Wish List" source="x_940834_wish_list">10e8119397631110c37fb846f053afff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">10e8119397631110c37fb846f053afff</sys_scope>
+        <sys_update_name>ua_table_licensing_config_fab911d397631110c37fb846f053aff4</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>
